@@ -223,7 +223,7 @@ sphinxcontrib-websupport
 spyder 
 spyder-kernels 
 SQLAlchemy 
-statsmodels==0.11.1
+#statsmodels==0.11.1
 streamlit==0.81.0
 sympy 
 tables==3.6.1
