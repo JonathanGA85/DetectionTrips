@@ -113,7 +113,6 @@ MarkupSafe
 matplotlib 
 mccabe==0.6.1
 mistune 
-mkl-fft==1.0.14
 mkl-random==1.0.4
 mkl-service==2.3.0
 mlxtend==0.18.0
