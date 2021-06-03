@@ -12,5 +12,5 @@ Pillow
 streamlit
 scipy
 scikit-image
-tensorflow==2.2.0
+tensorflow
 pandas
