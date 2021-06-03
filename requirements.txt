@@ -4,7 +4,7 @@ h5py
 imgaug
 ipykernel
 ipython
-Keras
+Keras==2.3.1
 matplotlib
 numpy
 opencv-python
@@ -12,5 +12,5 @@ Pillow
 streamlit
 scipy
 scikit-image
-tensorflow
+tensorflow==2.2.0
 pandas
